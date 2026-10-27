@@ -1,0 +1,18 @@
+{
+  "name": "MS MedicalDiag - Seif Chaouch & Dr. Malek Masri",
+  "short_name": "MS MedicalDiag",
+  "description": "MS MedicalDiag - Diagnostic médical et protocoles FIFA pour le staff médical (Seif Chaouch & Dr. Malek Masri) et footballeurs",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#020617",
+  "theme_color": "#022c22",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
